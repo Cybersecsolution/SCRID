@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="https://i.imgur.com/DffARTu.png" alt="Players List" width="700">
+</p>
+<br>
+
+<p align="center">
   <img src="https://i.imgur.com/5O0bDqA.png" alt="Players List" width="700">
 </p>
 
